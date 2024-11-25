@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F759D4&lines=Salut,+je+suis+Guillaume !;Développeur,+Créateur,+Curieux;Passionné+de+Cybersécurité+🔒;Fan+de+Jeux+de+Société+🎲" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F759D4&lines=Salut,+je+suis+Guillaume!;Développeur,+Créateur,+Curieux;Passionné+de+Cybersécurité+🔒;Créateur+de+Jeux+de+Société+🎲" />
 </p>
 
 <p align="center">
