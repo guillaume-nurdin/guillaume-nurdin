@@ -30,7 +30,7 @@
 
 ### 🌐 **Réseaux sociaux et contact**
 <p align="center">
-  <a href="https://linkedin.com/in/tonprofil">
+  <a href="[https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/guillaume-nurdin-1338b4315/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tonemail@example.com">
