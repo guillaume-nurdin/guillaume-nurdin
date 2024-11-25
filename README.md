@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Salut, je suis Guillaume 👋  
+🌟 Passionné de TOI  
+💻 En cours de réorientation vers la cybersécurité  
+🎮 Créateur de jeux de société à mes heures perdues  
+
+---
+
+## 🚀 Projets en vedette  
+- 🛡️ [Nom du projet cybersécurité](https://github.com/mon-username/projet-cyber)  
+- 🎲 [Nom du jeu de société](https://github.com/mon-username/deck-building-bio)  
+
+---
+
+📫 **Me contacter :** [LinkedIn](https://linkedin.com/in/tonprofil) | [Email](mailto:tonemail@example.com)
