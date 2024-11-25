@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F759D4&lines=Salut,+je+suis+Ton+Nom!;Développeur,+Créateur,+Curieux;Passionné+de+Cybersécurité+🔒;Créateur+de+Jeux+de+Société+🎲" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F759D4&lines=Salut,+je+suis+Guillaume!;Développeur,+Créateur,+Curieux;Passionné+de+Cybersécurité+🔒" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mon-username?label=Abonnés&style=social" />
-  <img src="https://img.shields.io/github/stars/mon-username?label=Étoiles&style=social" />
-</p>
+
 
 ---
 
 ### ✨ **À propos de moi**
-- 🛡️ Actuellement en formation pour devenir **spécialiste en cybersécurité**.  
-- 🎮 Créateur de jeux de société à mes heures perdues, comme un deck-building sur la biologie.  
+- 🛡️ Actuellement en formation chez Laplateforme  pour devenir **spécialiste en cybersécurité** .  
+- 🎮 Joueur à mes heures perdues, fan de jeux vidéo et de jeux de société.   
 - 🌱 J’adore apprendre de nouvelles choses, notamment dans la **programmation** et le **design.**  
 
 ---
@@ -19,8 +16,8 @@
 ### 🚀 **Projets phares**
 | 🎨 **Projet**          | 📝 **Description**             | 🔗 **Lien**                     |
 |-------------------------|-------------------------------|----------------------------------|
-| 🛡️ **Cybersécurité**    | Analyse des vulnérabilités    | [Voir ici](https://github.com/mon-username/projet-cyber) |
-| 🎲 **Deck-building Bio** | Jeu de société sur la biologie | [Voir ici](https://github.com/mon-username/deck-building-bio) |
+| 🛡️ **Cybersécurité**    | Analyse des vulnérabilités    | [à venir](#) |
+| 🎲 **Deck-building Bio** | Jeu de société sur la biologie | [à venir](#) |
 
 ---
 
