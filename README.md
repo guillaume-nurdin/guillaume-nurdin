@@ -1,4 +1,13 @@
 <p align="center">
+  <video width="600" controls>
+    <source src="https://github.com/guillaume-nurdin/guillaume-nurdin/blob/main/Guillaume%20Nurdin.mp4" type="video/mp4">
+    Ton navigateur ne supporte pas les vidéos HTML5.
+  </video>
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9ACD32&lines=Salut,+je+suis+Guillaume!;Développeur,+Créateur,+Curieux;Passionné+de+Cybersécurité+🔒" />
 </p>
 
