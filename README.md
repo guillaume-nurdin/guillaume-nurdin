@@ -1,9 +1,4 @@
-<p align="center">
-  <video width="600" controls>
-    <source src="[https://raw.githubusercontent.com/guillaume-nurdin/guillaume-nurdin/main/Guillaume%20Nurdin.mp4" type="png">
-    Ton navigateur ne supporte pas les vidéos HTML5.
-  </video>
-</p>
+![Texte alternatif](https://github.com/guillaume-nurdin/guillaume-nurdin/blob/main/Capture%20d'%C3%A9cran%202024-11-25%20123828.png)
 
 
 
