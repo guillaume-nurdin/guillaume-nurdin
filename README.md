@@ -23,10 +23,9 @@
 
 ### 📊 **Stats GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?guillaume.nurdin=mon-username&show_icons=true&theme=radical&hide=issues" alt="Stats de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?guillaume.nurdin=mon-username&layout=compact&theme=radical" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical&hide=issues" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" alt="Top Langages" />
 </p>
-
 ---
 
 ### 🌐 **Réseaux sociaux et contact**
