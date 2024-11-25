@@ -1,6 +1,6 @@
 <p align="center">
   <video width="600" controls>
-    <source src="https://raw.githubusercontent.com/guillaume-nurdin/guillaume-nurdin/main/Guillaume%20Nurdin.mp4" type="video/mp4">
+    <source src="[https://raw.githubusercontent.com/guillaume-nurdin/guillaume-nurdin/main/Guillaume%20Nurdin.mp4" type="png">
     Ton navigateur ne supporte pas les vidéos HTML5.
   </video>
 </p>
