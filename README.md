@@ -40,9 +40,7 @@
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johndoe&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 ---
 
 ### 🎮 **Quelques Fun Facts**
