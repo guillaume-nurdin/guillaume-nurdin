@@ -23,8 +23,8 @@
 
 ### 📊 **Stats GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mon-username&show_icons=true&theme=radical&hide=issues" alt="Stats de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon-username&layout=compact&theme=radical" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?guillaume.nurdin=mon-username&show_icons=true&theme=radical&hide=issues" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?guillaume.nurdin=mon-username&layout=compact&theme=radical" alt="Top Langages" />
 </p>
 
 ---
