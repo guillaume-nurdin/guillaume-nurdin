@@ -33,14 +33,16 @@
   <a href="https://www.linkedin.com/in/guillaume-nurdin-1338b4315">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
-  <a href="mailto:tonemail@example.com">
+  <a href="mailto:guillaume.nurdin@laplateforme.io">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://tonsite.com">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johndoe&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🎮 **Quelques Fun Facts**
