@@ -69,7 +69,7 @@
   <a href="mailto:guillaume.nurdin@laplateforme.io">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://tonsite.com">
+  <a href="https://github.com/guillaume-nurdin/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
